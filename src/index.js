@@ -1,1 +1,4 @@
-console.log('HI')
+import HomeTab from "./home";
+
+
+HomeTab();
